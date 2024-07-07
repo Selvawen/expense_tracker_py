@@ -20,7 +20,7 @@ A simple and efficient command-line application for tracking your daily expenses
 
 
 ## Technology Used
-
+![python 2](https://github.com/Selvawen/guessing-game-py/assets/111338548/2cda6787-fa36-41ca-9b3e-ec739b8d922d)
 
 ## Features
 
@@ -39,7 +39,7 @@ A simple and efficient command-line application for tracking your daily expenses
    ```sh
    git clone https://github.com/yourusername/expense-tracker.git
    ```
-   2. Navigate to the project directory:
+2. Navigate to the project directory:
    ```sh
    cd expense-tracker
    ```
