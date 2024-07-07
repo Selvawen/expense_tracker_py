@@ -17,6 +17,7 @@ A simple and efficient command-line application for tracking your daily expenses
 - [License](#license)
 
 ## Demo
+![ExpensesPic](https://github.com/Selvawen/expense_tracker_py/assets/111338548/facf35e3-4078-4969-be7d-4bac0b54219f)
 
 
 ## Technology Used
