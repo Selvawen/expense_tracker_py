@@ -46,7 +46,7 @@ A simple and efficient command-line application for tracking your daily expenses
    ```
 
 ## Usage
-Run th eexpense tracker application 
+Run th expense tracker application 
 
 ```sh
 python expense_tracker.py
